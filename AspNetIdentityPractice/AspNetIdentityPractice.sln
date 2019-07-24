@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentityPractice", "AspNetIdentityPractice\AspNetIdentityPractice.csproj", "{2C424F92-DC66-4E6A-ACA8-740D97EE8493}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentity", "AspNetIdentity\AspNetIdentity.csproj", "{9001292C-2377-4C5F-98EF-FA8A62090739}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2C424F92-DC66-4E6A-ACA8-740D97EE8493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C424F92-DC66-4E6A-ACA8-740D97EE8493}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C424F92-DC66-4E6A-ACA8-740D97EE8493}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C424F92-DC66-4E6A-ACA8-740D97EE8493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9001292C-2377-4C5F-98EF-FA8A62090739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9001292C-2377-4C5F-98EF-FA8A62090739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9001292C-2377-4C5F-98EF-FA8A62090739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9001292C-2377-4C5F-98EF-FA8A62090739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

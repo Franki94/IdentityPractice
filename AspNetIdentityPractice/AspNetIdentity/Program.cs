@@ -3,7 +3,7 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using System;
 using System.Security.Claims;
 
-namespace AspNetIdentityPractice
+namespace AspNetIdentity
 {
     class Program
     {
@@ -18,7 +18,7 @@ namespace AspNetIdentityPractice
 
             Console.WriteLine($"Creation {creationResult}");
             var user = userManage.FindByName(userName);
-            var claimResult  = userManage.AddClaim(user.Id, new Claim("given_name","Becker"));
+            var claimResult = userManage.AddClaim(user.Id, new Claim("given_name", "Becker"));
 
             Console.WriteLine($"Claims {claimResult.Succeeded}");
 
@@ -26,7 +26,6 @@ namespace AspNetIdentityPractice
             Console.WriteLine($"Is User {isMath}");
 
             Console.ReadLine();
-
         }
     }
 }

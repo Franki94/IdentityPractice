@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AspNetIdentityPractice")]
+[assembly: AssemblyTitle("AspNetIdentity")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AspNetIdentityPractice")]
+[assembly: AssemblyProduct("AspNetIdentity")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2c424f92-dc66-4e6a-aca8-740d97ee8493")]
+[assembly: Guid("9001292c-2377-4c5f-98ef-fa8a62090739")]
 
 // Version information for an assembly consists of the following four values:
 //
